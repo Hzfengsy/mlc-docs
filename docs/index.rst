@@ -34,6 +34,7 @@ TVM Unity is developed under Apache TVM's Github Repo in a separate `unity` bran
    :caption: HOW TO
 
    how_to/tutorials/customize_opt
+   how_to/tutorials/optimize_model
 
 .. The Deep Dive content is comprehensive
 .. we maintain a ``maxdepth`` of 2 to display more information on the main page.
