@@ -30,8 +30,6 @@ use a pre-trained ResNet-18 model from PyTorch and optimize it using TVM's Relax
 # First, we prepare the model and input information. We use a pre-trained ResNet-18 model from
 # PyTorch.
 
-import tempfile
-
 import numpy as np
 import torch
 from torch import fx
